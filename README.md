@@ -39,3 +39,69 @@ Currently crafting native Android experiences with **Kotlin**, **Jetpack Compose
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+---
+
+### 📱 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+#### 💰 [ExpenseTracker](https://github.com/saikomeri/ExpenseTracker)
+Personal finance tracker built with **Kotlin** & **Jetpack Compose**
+
+- MVVM + Clean Architecture with Hilt DI
+- Room database with prepopulated categories
+- Animated pie/donut charts using Canvas API
+- Budget tracking with progress indicators
+- Monthly spending trends & category statistics
+- Dark/Light theme with Material Design 3
+
+`Kotlin` `Compose` `Room` `Hilt` `Canvas`
+
+</td>
+<td width="50%">
+
+#### 📈 [CryptoTracker](https://github.com/saikomeri/CryptoTracker)
+Real-time cryptocurrency tracker with **CoinGecko API**
+
+- Live prices for top 100 cryptocurrencies
+- Interactive animated price charts (24h–1y)
+- Watchlist with persistent favorites
+- WorkManager-powered background price alerts
+- Offline caching with Room + TTL strategy
+- Shimmer loading & pull-to-refresh
+
+`Kotlin` `Compose` `Retrofit` `WorkManager` `Coil`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🌤 [FlutterWeather](https://github.com/saikomeri/FlutterWeather)
+Animated weather app built with **Flutter** & **Riverpod**
+
+- OpenWeatherMap API with Dio HTTP client
+- Location-based weather via Geolocator
+- Hourly + 5-day forecasts with custom UI
+- Dynamic gradient backgrounds per weather condition
+- Debounced city search with geocoding
+- Custom Canvas temperature range bars
+
+`Flutter` `Riverpod` `Dio` `Geolocator` `Canvas`
+
+</td>
+<td width="50%">
+
+#### 🏢 Professional Experience
+- **InComm Payments** — Serve, Bluebird, Scarlet card apps
+- **Costco** — Shopping app for 130M+ cardholders
+- **AT&T** — Account management & billing systems
+- **Fintech & Retail** focus throughout career
+- Apps processing millions of transactions
+
+</td>
+</tr>
+</table>
