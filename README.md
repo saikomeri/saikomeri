@@ -105,3 +105,12 @@ Animated weather app built with **Flutter** & **Riverpod**
 </td>
 </tr>
 </table>
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=saikomeri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikomeri&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
