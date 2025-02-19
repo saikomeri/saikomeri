@@ -49,7 +49,7 @@ Currently crafting native Android experiences with **Kotlin**, **Jetpack Compose
 <td width="50%">
 
 #### 💰 [ExpenseTracker](https://github.com/saikomeri/ExpenseTracker)
-Personal finance tracker built with **Kotlin** & **Jetpack Compose**
+Full-featured personal finance tracker built with **Kotlin** & **Jetpack Compose**
 
 - MVVM + Clean Architecture with Hilt DI
 - Room database with prepopulated categories
