@@ -98,7 +98,7 @@ Animated weather app built with **Flutter** & **Riverpod**
 #### 🏢 Professional Experience
 - **InComm Payments** — Serve, Bluebird, Scarlet card apps
 - **Costco** — Shopping app for 130M+ cardholders
-- **AT&T** — Account management & billing systems
+- **Fantasie Inc** — Account management & billing systems
 - **Fintech & Retail** focus throughout career
 - Apps processing millions of transactions
 
