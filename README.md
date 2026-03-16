@@ -34,6 +34,11 @@ Currently crafting native Android experiences with **Kotlin**, **Jetpack Compose
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Riverpod](https://img.shields.io/badge/Riverpod-0553B1?style=flat)
 
+**AI & ML**
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat&logo=google&logoColor=white)
+![CameraX](https://img.shields.io/badge/CameraX-3DDC84?style=flat&logo=android&logoColor=white)
+
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
@@ -46,6 +51,85 @@ Currently crafting native Android experiences with **Kotlin**, **Jetpack Compose
 
 <table>
 <tr>
+<td width="50%">
+
+#### ⌨️ [SmartType](https://github.com/saikomeri/SmartType)
+AI-powered writing keyboard with **Gemini API** integration
+
+- Custom InputMethodService with Compose QWERTY layout
+- AI text transformation: tone, grammar, translate
+- Suggestion popup with real-time AI completions
+- Transformation history with Room persistence
+- Premium features and usage analytics
+- Onboarding flow for keyboard setup
+
+`Kotlin` `Compose` `Gemini API` `Room` `Hilt`
+
+</td>
+<td width="50%">
+
+#### 💸 [SplitEasy](https://github.com/saikomeri/SplitEasy)
+Smart expense splitter with **Firebase** cloud sync
+
+- Group expense tracking with multiple split methods
+- Debt simplification algorithm (min transactions)
+- Real-time sync via Firestore
+- Firebase Auth with Google sign-in
+- Balance indicators and settle-up flow
+- Background sync with WorkManager
+
+`Kotlin` `Compose` `Firebase` `Room` `Hilt`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🍽 [MealMind](https://github.com/saikomeri/MealMind)
+AI meal planner with **ML Kit** ingredient scanning
+
+- Gemini AI-powered meal plan generation
+- Camera-based ingredient scanner with ML Kit OCR
+- Spoonacular API recipe search and details
+- Weekly meal plans with nutrition tracking
+- Auto-generated grocery lists by category
+- Dietary preference and allergy management
+
+`Kotlin` `Compose` `Gemini API` `ML Kit` `CameraX`
+
+</td>
+<td width="50%">
+
+#### 📱 [ScreenSort](https://github.com/saikomeri/ScreenSort)
+AI screenshot organizer with **ML Kit** OCR & classification
+
+- Auto-categorize screenshots using image classification
+- Full-text search across OCR-extracted content
+- Duplicate detection with perceptual hashing
+- Background scanning with WorkManager pipeline
+- Storage stats and bulk cleanup tools
+- Category-based browsing with filters
+
+`Kotlin` `Compose` `ML Kit` `WorkManager` `Room`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🎯 [MockPrep](https://github.com/saikomeri/MockPrep)
+AI interview prep coach with **Gemini API**
+
+- AI-generated interview questions by category
+- Real-time answer evaluation with detailed feedback
+- Radar chart for category score visualization
+- Flashcard practice with confidence tracking
+- Session history and progress streaks
+- Question bank with bookmarks and filters
+
+`Kotlin` `Compose` `Gemini API` `Room` `Canvas`
+
+</td>
 <td width="50%">
 
 #### 💰 [ExpenseTracker](https://github.com/saikomeri/ExpenseTracker)
@@ -61,6 +145,8 @@ Personal finance tracker built with **Kotlin** & **Jetpack Compose**
 `Kotlin` `Compose` `Room` `Hilt` `Canvas`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 #### 📈 [CryptoTracker](https://github.com/saikomeri/CryptoTracker)
@@ -76,8 +162,6 @@ Real-time cryptocurrency tracker with **CoinGecko API**
 `Kotlin` `Compose` `Retrofit` `WorkManager` `Coil`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 #### 🌤 [FlutterWeather](https://github.com/saikomeri/FlutterWeather)
@@ -93,18 +177,17 @@ Animated weather app built with **Flutter** & **Riverpod**
 `Flutter` `Riverpod` `Dio` `Geolocator` `Canvas`
 
 </td>
-<td width="50%">
+</tr>
+</table>
 
-#### 🏢 Professional Experience
+---
+
+### 🏢 Professional Experience
 - **InComm Payments** — Serve, Bluebird, Scarlet card apps
 - **Costco** — Shopping app for 130M+ cardholders
 - **AT&T** — Account management & billing systems
 - **Fintech & Retail** focus throughout career
 - Apps processing millions of transactions
-
-</td>
-</tr>
-</table>
 
 ---
 
